@@ -4,11 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the root Directory, run:
+### `nodemon server`
 
-## `nodemon server`
-
-This runs the backend of the app for the connection to mongo atlas. 
+Run in the Root Directory, this runs the backend of the app for the connection to mongo atlas. 
 
 In the project directory, you can run:
 
